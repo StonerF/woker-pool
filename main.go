@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	// Configuration
+	// Конфигурация
 	bufferSize := 50000
 	maxWorkers := 20
 	minWorkers := 3
